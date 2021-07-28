@@ -1,0 +1,335 @@
+{
+    "UK 60": {
+        "sections": [
+            "A"
+        ]
+    },
+    "GF 24": {
+        "sections": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    "ME 40": {
+        "sections": [
+            "B",
+            "C",
+            "A"
+        ]
+    },
+    "VY 44": {
+        "sections": [
+            "A",
+            "B",
+            "D",
+            "E",
+            "C"
+        ]
+    },
+    "EN 94": {
+        "sections": [
+            "A",
+            "B",
+            "D",
+            "E",
+            "F",
+            "C"
+        ]
+    },
+    "EQ 61": {
+        "sections": [
+            "B",
+            "C",
+            "D",
+            "A"
+        ]
+    },
+    "UZ 22": {
+        "sections": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    "KS 36": {
+        "sections": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    "VH 63": {
+        "sections": [
+            "A",
+            "C",
+            "D",
+            "E",
+            "F",
+            "B"
+        ]
+    },
+    "IW 81": {
+        "sections": [
+            "B",
+            "C",
+            "A"
+        ]
+    },
+    "WE 15": {
+        "sections": [
+            "A",
+            "C",
+            "D",
+            "B"
+        ]
+    },
+    "ZP 68": {
+        "sections": [
+            "A"
+        ]
+    },
+    "GI 78": {
+        "sections": [
+            "A"
+        ]
+    },
+    "GK 72": {
+        "sections": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "F",
+            "E"
+        ]
+    },
+    "FA 24": {
+        "sections": [
+            "A",
+            "C",
+            "D",
+            "B"
+        ]
+    },
+    "UJ 28": {
+        "sections": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    "ZJ 82": {
+        "sections": [
+            "B",
+            "C",
+            "D",
+            "E",
+            "A"
+        ]
+    },
+    "SN 88": {
+        "sections": [
+            "A"
+        ]
+    },
+    "TT 59": {
+        "sections": [
+            "B",
+            "A"
+        ]
+    },
+    "HK 84": {
+        "sections": [
+            "A"
+        ]
+    },
+    "HW 19": {
+        "sections": [
+            "A"
+        ]
+    },
+    "SE 79": {
+        "sections": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    "BN 85": {
+        "sections": [
+            "A",
+            "B",
+            "C",
+            "E",
+            "F",
+            "D"
+        ]
+    },
+    "LV 41": {
+        "sections": [
+            "A",
+            "B",
+            "D",
+            "C"
+        ]
+    },
+    "OG 37": {
+        "sections": [
+            "A",
+            "C",
+            "D",
+            "B"
+        ]
+    },
+    "QR 51": {
+        "sections": [
+            "A"
+        ]
+    },
+    "TS 66": {
+        "sections": [
+            "A"
+        ]
+    },
+    "YB 54": {
+        "sections": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    "YD 55": {
+        "sections": [
+            "A",
+            "C",
+            "D",
+            "B"
+        ]
+    },
+    "VC 62": {
+        "sections": [
+            "B",
+            "C",
+            "A"
+        ]
+    },
+    "FX 96": {
+        "sections": [
+            "A"
+        ]
+    },
+    "GM 72": {
+        "sections": [
+            "A"
+        ]
+    },
+    "GV 12": {
+        "sections": [
+            "A"
+        ]
+    },
+    "YS 74": {
+        "sections": [
+            "A",
+            "C",
+            "B"
+        ]
+    },
+    "MU 79": {
+        "sections": [
+            "A",
+            "B"
+        ]
+    },
+    "VS 18": {
+        "sections": [
+            "A"
+        ]
+    },
+    "AI 41": {
+        "sections": [
+            "A",
+            "B",
+            "D",
+            "E",
+            "C"
+        ]
+    },
+    "MC 25": {
+        "sections": [
+            "B",
+            "A"
+        ]
+    },
+    "FZ 18": {
+        "sections": [
+            "A"
+        ]
+    },
+    "YQ 49": {
+        "sections": [
+            "A",
+            "B"
+        ]
+    },
+    "AX 43": {
+        "sections": [
+            "A"
+        ]
+    },
+    "KC 22": {
+        "sections": [
+            "A",
+            "C",
+            "D",
+            "B"
+        ]
+    },
+    "KD 10": {
+        "sections": [
+            "A",
+            "C",
+            "B"
+        ]
+    },
+    "RT 81": {
+        "sections": [
+            "A"
+        ]
+    },
+    "UK 70": {
+        "sections": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    "LJ 29": {
+        "sections": [
+            "B",
+            "A"
+        ]
+    },
+    "PG 71": {
+        "sections": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    "KD 33": {
+        "sections": [
+            "A"
+        ]
+    },
+    "ZB 82": {
+        "sections": [
+            "A"
+        ]
+    }
+}
